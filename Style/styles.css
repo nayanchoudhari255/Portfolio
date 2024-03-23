@@ -505,13 +505,14 @@ font-size: 2.6rem;
     }
     .project-container{
         grid-template-columns: repeat(3,1fr);
-        
+        margin-top:20rem;
     }
 
 }
 @media (max-width:617px){
 .project-container{
     grid-template-columns: 1fr;
+    
 }
 .home-img img{
     width: 80vw;
