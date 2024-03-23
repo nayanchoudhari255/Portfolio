@@ -428,7 +428,7 @@ color: var(--snd-bf-color);
     .services{
         padding: 7rem;
     }
-    
+   
     .project{
         padding-bottom:7rem ;
     }
@@ -502,7 +502,7 @@ font-size: 2.6rem;
         margin-bottom: 3rem;
     }
     .project-container{
-        grid-template-columns: repeat(2,1fr);
+        grid-template-columns: repeat(3,1fr);
         
     }
 
