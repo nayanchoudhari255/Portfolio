@@ -428,6 +428,8 @@ color: var(--snd-bf-color);
     .services{
         padding: 7rem;
     }
+    .skills{
+    padding-bottom:4rem}
    
     .project{
         padding-bottom:7rem ;
