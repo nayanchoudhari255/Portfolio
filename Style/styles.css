@@ -428,6 +428,9 @@ color: var(--snd-bf-color);
     .services{
         padding: 7rem;
     }
+    .skills{
+         padding-bottom:7rem ;
+    }
     .project{
         padding-bottom:7rem ;
     }
@@ -493,6 +496,9 @@ font-size: 2.6rem;
     }
     .services h2{
         margin-bottom: 3rem;
+    }
+    .skills h2{
+         margin-bottom: 3rem;
     }
     .project h2{
         margin-bottom: 3rem;
